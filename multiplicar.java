@@ -7,7 +7,7 @@ package principal;
 
 import java.util.Scanner;
 
-public class resta {
+public class multiplicar {
 
     public static void main(String[] args) {
         int x,y;
@@ -40,9 +40,10 @@ public class resta {
         
         
     }
-  
-    public static int restar(int a, int b){
-        int s=a-b;
+   
+   
+    public static int multiplicar(int a, int b){
+        int s=a*b;
         return s;
     }
     
